@@ -1,1 +1,2 @@
-# laravel_url_amigables_mysql
+# Como crear URLs Amigables con Base de Datos MySQL en Laravel 5.6
+Si tienes un proyecto en Laravel con muchas páginas creadas dinámicamente desde la Base de Datos, por ejemplo si tienes una página sobre Dulces o Postres y dentro de ella  tienes una página productos, cada producto tiene que tener su propia página en donde puedas mostrar todos los detalles, como el precio, stock, fotos, etc. Esto hace que cada página maneje su propia URL, en este artículo te vamos a enseñar como crear dinámicamente una URL desde la Base de Datos para cada producto, vamos con el artículo.
