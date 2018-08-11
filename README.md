@@ -1,0 +1,1 @@
+# laravel_url_amigables_mysql
